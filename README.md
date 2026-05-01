@@ -28,33 +28,6 @@ I focus on building practical systems—games, robotics projects, and software t
 
 ---
 
-## 🛠️ Skills
-
-### Core
-- C, C++, Python  
-- Problem Solving  
-- Debugging & Logical Thinking  
-
-### AI / ML (Learning)
-- Python for ML  
-- Basic data handling & model concepts  
-
-### Development
-- Godot Engine (Game Dev)  
-- Aseprite (Pixel Art)  
-
-### Tools & Systems
-- Arch Linux  
-- Git & GitHub  
-- VS Code  
-
-### Robotics Exposure
-- Microcontrollers (Arduino/STM basics)  
-- Motors, drivers, control systems  
-- Understanding real-world constraints  
-
----
-
 ## ⚔️ Stats
 
 Logic        █████████░  
