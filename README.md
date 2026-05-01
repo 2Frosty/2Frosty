@@ -20,21 +20,10 @@ Goal: Build systems that actually work outside theory.
 
 I focus on building practical systems—games, robotics projects, and software that goes beyond just concepts.
 
-- 🃏 Built a fantasy card game inspired by Pokémon & Hearthstone (Godot + Aseprite)  
-- 🥈 Secured 2nd place in a Game Jam  
-- 🤖 Participated in robotics competitions & workshops  
+- 🃏 Built a fantasy card game inspired by Pokémon & Hearthstone (Godot + Aseprite) and secured 2nd place in Illuminati 2026 Game Jam w/ [Himanshu](https://github.com/Enerhim )
+- 🤖 Built a line following robot for IITB Meshmerize Comepetition
 - 🐧 Daily Arch Linux user  
 - ⚙️ Interested in AI/ML + real-world systems  
-
----
-
-## ⚔️ Stats
-
-Logic        █████████░  
-Creativity   ████████░░  
-Debugging    ███████░░░  
-Consistency  ███████░░░  
-Learning     ██████████  
 
 ---
 
@@ -44,13 +33,6 @@ Learning     ██████████
 - Building real-world projects  
 - Improving system design  
 - Combining software + hardware thinking  
-
----
-
-## 📫 Connect
-
-GitHub: https://github.com/icy_sorcerer  
-LinkedIn: https://linkedin.com/in/icysorcerer  
 
 ---
 
