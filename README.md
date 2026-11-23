@@ -7,8 +7,7 @@
 
 Name: Dheer Shah  
 Role: Developer / AI-ML Student  
-Education:  
-- IIT Jodhpur — BSc AI & Data Science  
+Education:   
 - GSFC University — B.Tech CSE (AI/ML)  
 Status: 1st Year Completed  
 
